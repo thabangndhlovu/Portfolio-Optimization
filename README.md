@@ -1,4 +1,4 @@
-## FTSE/JSE Top 40 Portfolio Optimization using Monte Carlo Simulations
+## JSE Top 40 Portfolio Optimization using Monte Carlo Simulations
 
 #### In this notebook, I try to construct an optiminal investment portfolio at random and compare it with the benchmark.
 
